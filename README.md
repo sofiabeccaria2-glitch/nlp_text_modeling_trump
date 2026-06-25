@@ -50,16 +50,16 @@ The visual analysis allows exploration of:
 
 # Key Visualization
 Topic Structure
-![Topics](figures/topic_distribution.png)
+![Topics](figures/bertopic_intertopic_bar.html)
 
 Topic Years Evolution
-![Evolution](figures/bertopic_auto_yearsevolution.png)
+![Evolution](figures/bertopic_auto_yearsevolution.html)
 
-Semantic Map
-![Map](figures/intertopic_map.png)
+Semantic Intertopic Map
+![Map](figures/bertopic_intertopic_map.html)
 
 Topic Similarity
-![Similarity](figures/similarity_heatmap.png)
+![Similarity](figures/bertopic_similarity_heatmap.html)
 
 # Project structure
 Project structure:
