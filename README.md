@@ -52,8 +52,8 @@ The visual analysis allows exploration of:
 Topic Structure
 ![Topics](figures/topic_distribution.png)
 
-Topic Evolution
-![Evolution](figures/topic_evolution.png)
+Topic Years Evolution
+![Evolution](figures/bertopic_auto_yearsevolution.html)
 
 Semantic Map
 ![Map](figures/intertopic_map.png)
