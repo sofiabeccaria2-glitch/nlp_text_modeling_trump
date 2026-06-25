@@ -68,6 +68,7 @@ Topic Similarity
 ![Similarity](figures/png/newplot(13).png)
 
 Document-Topic
+![Doc](figures/html/bertopic_documents_topics.html)
 ![Doc](figures/png/newplot(14).png)
 
 
