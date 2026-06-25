@@ -65,7 +65,7 @@ Semantic Intertopic Map
 
 Topic Similarity
 ![Similarity](figures/html/bertopic_similarity_heatmap.html)
-![Similarity](figures/png/newplot (13).png)
+![Similarity](figures/png/newplot(13).png)
 
 Document-Topic
 ![Doc](figures/png/newplot(14).png)
