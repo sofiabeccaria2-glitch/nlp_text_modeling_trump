@@ -21,7 +21,7 @@ The goal is to use computational text analysis to investigate:
 # Dataset
 The dataset consists of 35 Donald Trump rally speeches (2019–2020). 
 
-Each speech is stored as a `.txt` file, with metadata (location, date, year) extracted from filenames.
+Each speech is stored as a `.txt` file, with metadata (location, date, year) extracted from filenames. All raw text files are included in the repository for full reproducibility.
 
 # Methodology
 The analysis pipeline includes:
