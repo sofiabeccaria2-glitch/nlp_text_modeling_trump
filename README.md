@@ -9,6 +9,8 @@ The objective is to identify recurring political narratives and understand how p
 
 Beyond topic extraction, the project focuses on the **structure of political discourse as a system of repeated narrative patterns.
 
+The full analysis is available in the Jupyter notebook inside the /notebooks folder.
+
 # Research Objective
 
 The goal is to use computational text analysis to investigate:
